@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaywrightTests", "PlaywrightTests\PlaywrightTests.csproj", "{BA086A67-EC89-467F-A3CA-D90B3D93591A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C7B46BD-58A3-4FE5-8D55-CA9075421B3B}"
+	ProjectSection(SolutionItems) = preProject
+		chrome.runsettings = chrome.runsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA086A67-EC89-467F-A3CA-D90B3D93591A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA086A67-EC89-467F-A3CA-D90B3D93591A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA086A67-EC89-467F-A3CA-D90B3D93591A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA086A67-EC89-467F-A3CA-D90B3D93591A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77058AD9-45EF-42B4-A90A-A4650FA96ECF}
+	EndGlobalSection
+EndGlobal
